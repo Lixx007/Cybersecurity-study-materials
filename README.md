@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-2.gif" width="400" alt="Hacker GIF">
+<p align="left">
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif-2.gif" width="250" height="200" style="box-shadow: 2px 2px 8px rgba(0,0,0,0.3);" alt="Hacker GIF">
 </p>
 
 ### 🔐 Cybersecurity Study Materials
@@ -29,5 +29,3 @@ This is a collection of study materials to help you learn about cybersecurity. I
 #### ⚠️ Disclaimer:
 Most of the files and notes in this repo are collected from free and open sources on the internet.  
 All credit goes to the original creators. This repo is only for educational purposes.
-
----
